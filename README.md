@@ -1,4 +1,4 @@
-*aes generate(тут шифр в начале)*/
+*aes generate --aes-size 128*/
 *aes encrypt -i название файла() -k ключ*/
 *aes decrypt -i название файла() -k ключ*/
 *logs (журнал логов)*/
